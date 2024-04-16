@@ -1,0 +1,151 @@
+body, html, p, li{
+    height: 100%;
+      font-family: 'Raleway', sans-serif;
+      line-height: 1.6;
+      letter-spacing: 1px;
+      
+  }
+  
+
+h1, .header-title {
+    font-family: "Titan One", sans-serif;
+    font-style: normal;
+    color: #411F1F;
+    letter-spacing: 4px;
+    text-shadow: 5px 5px #DFD3C3;
+  }
+
+
+h2, .header-subtitle{
+  font-family: "Titan One", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: #5E4D43;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+   
+
+}
+
+h2, .h2-font{
+  font-family: "ABeeZee", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: 1px;
+}
+
+a{
+    text-decoration: none;
+}
+
+dotlottie-player {
+  margin: -35px auto;
+}
+
+ 
+.bgimg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('img/jb-profile.png');
+  min-height: 100%;
+}
+
+.rhs-img{
+  background-image: url('img/background3-trans40.png');
+
+}
+
+
+#home{
+  padding:124px 0 0;
+}
+
+.icon-tag{
+  color: #AD7D4E;
+}
+
+
+.three-polaroids{
+  margin-top: -40px;
+}
+
+.header-text-box{
+  background-color: #ffffff;/*#f4f4f4; #c9b9a1;*/
+  opacity: 0.86;
+  border-radius: 10px;
+  padding: 0 2.4rem;
+  text-align: center;
+  margin: 2rem 32px;
+  color: #242621;
+  
+}
+
+
+
+#about{
+  background-color: #E9F2F8;
+  color: #242621;
+}
+
+
+
+.about-box{
+  margin: 0 32px;
+  color: #242621;
+}
+
+.icon{
+  color: #30475E;
+}
+
+.icon-shoes{
+color: #AD8F86;
+}
+
+.icon-socks{
+color: #4198C1;
+}
+
+.icon-chicken{
+color: #D58974;
+}
+
+
+.icon-bacon{
+color: #A52137;
+
+}
+
+
+.w3-row-padding img {margin-bottom: 12px}
+
+
+
+
+  
+
+  .box-colour{
+    background-color: #30475E;
+    color: #ffffff;
+  }
+
+  .box-text{
+    font-weight: 500;
+    font-size: 1.2rem;
+    background-color: #E7DEC8;
+  }
+
+  .contact-form{
+    background-color: #F5F1EC;
+  }
+
+
+.footer-box{
+  background-color: #30475E;
+  color: #ffffff;;
+}
+
+
+/*CBAF87 */
