@@ -43,7 +43,14 @@ dotlottie-player {
   margin: -35px auto;
 }
 
- 
+.nav-link{
+  letter-spacing: 0.6px;
+}
+
+.btn-link{
+  letter-spacing: 1px;
+}
+
 .bgimg {
   background-position: center;
   background-repeat: no-repeat;
@@ -66,6 +73,9 @@ dotlottie-player {
   color: #AD7D4E;
 }
 
+.icon-tag2{
+  color:#4198C1;
+}
 
 .three-polaroids{
   margin-top: -40px;
@@ -94,6 +104,10 @@ dotlottie-player {
 .about-box{
   margin: 0 32px;
   color: #242621;
+}
+
+.padding-left{
+  padding-left: 32px;
 }
 
 .icon{
@@ -136,6 +150,10 @@ color: #A52137;
     font-size: 1.2rem;
     background-color: #E7DEC8;
   }
+
+#form{
+  margin-top: -16px;
+}
 
   .contact-form{
     background-color: #F5F1EC;
