@@ -43,6 +43,10 @@ dotlottie-player {
   margin: -35px auto;
 }
 
+.navbar{
+  z-index: 999999;
+}
+
 .nav-link{
   letter-spacing: 0.6px;
 }
