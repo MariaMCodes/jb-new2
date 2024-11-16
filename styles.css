@@ -172,6 +172,10 @@ color: #A52137;
 
 .christmas{
   background-image: url('img/christmasbkgd.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 40%;
 }
 
 /*CBAF87 
